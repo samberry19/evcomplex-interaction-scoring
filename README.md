@@ -3,7 +3,7 @@
 This is code for using [EVcomplex](https://elifesciences.org/articles/03430) to generate "interaction scores" for individual sequences 
 in a multiple sequence alignment, as done in the paper:
 
-> Katherine Hummels, Samuel Berry, Zhaoqi Li, Atsushi Taguchi, Joseph Min, Suzanne Walker, Debora Marks and Thomas G. Bernhardt (2022) Coordination of bacterial cell wall and outer membrane biosynthesis. doi: ???
+> Katherine Hummels, Samuel Berry, Zhaoqi Li, Atsushi Taguchi, Joseph Min, Suzanne Walker, Debora Marks and Thomas G. Bernhardt (2022) Coordination of bacterial cell wall and outer membrane biosynthesis.
 
 ## Installation
 
